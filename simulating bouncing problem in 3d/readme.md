@@ -41,17 +41,17 @@ During a collision with a rigid surface:
 Therefore:
 
 * Force ⟂ displacement
-* ( \vec F \cdot \vec d = 0 )
+* ( vec F dot vec d = 0 )
 * Work done = 0
 
 Using the work–energy theorem:
 [
-W = \Delta K
+W = Delta K
 ]
 
 Since total work done is zero:
 [
-\Delta K = 0 \Rightarrow K_i = K_f \Rightarrow |v_i| = |v_f|
+Delta K = 0 \Rightarrow K_i = K_f \Rightarrow |v_i| = |v_f|
 ]
 
 This led to a powerful takeaway:
