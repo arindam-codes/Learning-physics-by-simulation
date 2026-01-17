@@ -72,7 +72,7 @@ With the physics clear, the correct simulation logic became obvious:
 ### Simulation Link
 
 🔗 **GlowScript Simulation:**
-[https://www.glowscript.org/#/user/arindam.bhattacharjee.codes/folder/testing/program/bouncing.py](https://www.glowscript.org/#/user/arindam.bhattacharjee.codes/folder/testing/program/bouncing.py)
+[Bouncing ball](https://www.glowscript.org/#/user/arindam.bhattacharjee.codes/folder/testing/program/bouncing.py)
 
 ### Handwritten Notes
 
