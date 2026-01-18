@@ -1,5 +1,22 @@
 # Learning Physics by Simulation
 
+## Problem Context (Adapted)
+
+This project is based on a problem adapted from
+**Matter & Interactions** by Ruth W. Chabay and Bruce A. Sherwood (Wiley).
+
+The task involved analyzing a given VPython program in which a particle moves past a red box without interaction, then modifying the program so that the particle **bounces elastically off the box** instead of passing through it.
+
+The focus of the problem was:
+
+* Understanding an existing simulation line by line
+* Identifying how position is updated using a time step
+* Recognizing why the particle initially passes through the box
+* Modifying the code using conditional logic (`if`) to model a physical collision
+
+The original problem emphasizes reasoning from **first principles**, not memorization, and encourages thinking in terms of **vectors, independent motion components, and physical laws**.
+
+
 ## Problem Reflection — Bouncing Particle (Matter & Interactions Chapter 1 •••P79)
 
 This problem took me significant time, not because it was computationally difficult, but because I deliberately chose to solve it **from scratch using first principles**, without copying a ready-made approach.
