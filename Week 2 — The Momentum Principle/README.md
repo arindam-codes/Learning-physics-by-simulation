@@ -180,28 +180,6 @@ As the ship approaches the speed of light:
 
 ---
 
-## Philosophy (Read This)
-
-* You are not aiming for **coverage**
-* You are aiming for **compression into understanding**
-* Easy problems are sanity checks
-* Hard problems contain the chapter
-
-> **If the hardest problems make sense, the chapter is already yours.**
-
----
-
 ## Completion Criteria (CS50-Style)
 
-You have mastered Week 2 if you can:
 
-* Explain momentum change without mentioning acceleration
-* Predict direction and magnitude changes from force alone
-* Write and trust the iterative update loop
-* Explain why perpendicular forces change direction but not speed
-* Explain why increasing collision time reduces force
-* Explain why relativity becomes unavoidable near (c)
-
----
-
-**Onward.**
